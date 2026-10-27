@@ -1,0 +1,17 @@
+# Anki 牌组包（个人学习数据，不进入版本库）
+*.colpkg
+*.apkg
+
+# Python 缓存与临时文件
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 临时解压目录
+temp_*/
+tmp/
+
+# IDE 与操作系统杂项
+.vscode/
+.idea/
+.DS_Store

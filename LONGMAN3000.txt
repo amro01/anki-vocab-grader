@@ -1,0 +1,3663 @@
+LONGMAN COMMUNICATION 3000 
+Longman Communication 3000 
+a indefinite article, 
+determiner ST, Wl 
+abandon v W3 
+ability nS2,W1 
+able ad} S1,W1 
+about prep SI, W1 
+about adv SI, W1 
+above adv, prep S2, W1 
+above ad] W3 
+abroad adv S2, W3 
+absence n S3, W2 
+absolute ad/ S2, W3 
+absolutely adv SI, W3 
+absorb vW3 
+abuse nS2,W3 
+academic ad] W2 
+accept v SI, W1 
+acceptable ad; S3, W3 
+access n S2, W1 
+accident n S2, W2 
+accommodation n S2, W2 
+accompany vW2 
+according to prep S2, W1 
+account n SI, W1 
+account vS3, W2 
+accurate ad/ S2, W3 
+accuse v W3 
+achieve vS2, W1 
+achievement n S3, W2 
+acidnW3 
+acknowledge v S3, W3 
+acquire v W2 
+across adv, prep SI, W1 
+act n SI, W1 
+actvS2, W1 
+action n SI, W1 
+active ad] S2, W2 
+activist n S3 
+activity n S2, W1 
+actor n W3 
+actual ad] SI, W2 
+actually adv SI, W1 
+ad n S3, W3 
+adapt i/W3 
+add v SI, W1 
+addition n S3, W1 
+additional ad] S3, W2 
+address n S2, W2 
+address v S2, W2 
+adequate ad] S3, W3 
+adjust vW3 
+administration n S2, W2 
+administrative adj W3 
+admire vS3 
+admission n W3 
+admit vS2,W1 
+adopt v S3, VV2 
+adult nS2,W2 
+adult ad] W3 
+advance n S2, W2 
+advance v W3 
+advanced adj W3 
+advantage n S2, W1 
+advert n S3 
+advertise v S3, W3 
+advertisement n S3 
+advertising n W3 
+advice n S2, W2 
+advise vS2,W2 
+adviser n S3, W3 
+affair n S2, W1 
+affect v S2, W1 
+afford v SI, W3 
+afraid adj SI, W2 
+after prep, con], adv SI, W1 
+afternoon n SI, W2 
+afterwards adv S2, W3 
+again adv SI, W1 
+against prep SI, W1 
+agenSI.WI 
+aged adj W3 
+agency n S3, VV1 
+agent n S3, W2 
+aggressive adj S3 
+ago adv SI, W1 
+agree v SI, W1 
+agreement n S2, Wl 
+agriculture n W2 
+ahead adv SI, W2 
+aid n S2, W2 
+aimnS2, W2 
+aimvS2, W2 
+aim SI, Wl 
+aircraft n S2, W2 
+airline nS2,W3 
+airport n S3, W3 
+alarm nS2 
+album n S3, W3 
+alcohol n W3 
+alive adj S2, W3 
+all determiner, 
+predeterminer, pron 
+SI, Wl 
+all adv SI, Wl 
+allow v SI, Wl 
+allowance n S2, W3 
+all right adj, adv, 
+interjection SI, W2 
+almost adv SI, Wl 
+alone adj, adv S2, Wl 
+along adv SI, Wl 
+along prep SI, Wl 
+alongside adv, prep W3 
+already adv SI, Wl 
+also adv SI, Wl 
+alter v S3, W3 
+alternative adj S2, W2 
+alternative n S2, W3 
+although conj SI, Wl 
+altogether adv S2,W3 
+always adv SI, Wl 
+amazing adj S2 
+ambition n W3 
+ambulance n S3 
+among prep S2, Wl 
+amount n SI, Wl 
+an indefinite article, 
+determiners!, Wl 
+analyse v W3 
+analysis n S3, Wl 
+analyst nW2 
+ancient adj W2 
+and conj SI, Wl 
+anger n W3 
+angle n S3, W3 
+angry adj S3, W3 
+animal n SI, Wl 
+announce vS2, Wl 
+announcement n S3, W3 
+annoy v S3 
+annual adj S2, W2 
+another determiner, pron 
+SI, Wl 
+answer n SI, Wl 
+answer vSI, W2 
+anticipate vS3 
+anxiety n S3, W3 
+anxious adj S3, W3 
+any determiner, pron SI, 
+Wl 
+any adv S2 
+anybody pron SI, W3 
+anyhow adv S3 
+anyone pron SI, Wl 
+anything pron SI, Wl 
+anyway adv SI, W2 
+anywhere adv SI, W3 
+apart adv, adj S2, Wl 
+apartment n S2, W3 
+apologize vS2 
+apology n S3 
+apparent adj W2 
+apparently adv SI, W2 
+appeal n S2, Wl 
+appeal v S3, W3 
+appear vS2, Wl 
+appearance n W2 
+apple n S2, W3 
+application nSI, Wl 
+apply v SI, Wl 
+appoint vS2, W2 
+appointment n S2, W2 
+appreciate vS2, W3 
+approach n S2, Wl 
+approach vS2, W2 
+appropriate adj S2, Wl 
+approval n S2, W3 
+approve vS3, W2 
+approximate adj S3, W3 
+architect nW3 
+architecture n S3, W3 
+areanSI.WI 
+argue v S2, Wl 
+argument n SI, Wl 
+arise v S3, W2 
+arm n SI, Wl 
+armed adj S3, W3 
+army n SI, Wl 
+around adv, prep SI, Wl 
+arrange vS2, W2 
+arrangement n S2, W2 
+arrest v W3 
+arrival n W3 
+arrive vS2, Wl 
+artnS1,W1 
+article n S2, Wl 
+artificial adj S3 
+artist n S3, W2 
+as cony SI, Wl 
+as prep, adv SI, Wl 
+ashamed adj S3 
+aside adv S3, W3 
+ask v SI, Wl 
+asleep adj S2 
+aspect n S2, Wl 
+assess vS2,W2 
+assessment n S3, W2 
+assignment nS2 
+assist v S3, W3 
+assistance n S3, W2 
+assistant n S3 
+associate v S3, W2 
+association n S3, Wl 
+assume vS2, Wl 
+assumption n S2, W2 
+assure v S2, W3 
+at prep SI, Wl 
+atmosphere n S3, W2 
+attach vS2,W2 
+attack nS2,W2 
+attack v S3, W2 
+attempt nS2, Wl 
+attempt vS2,W2 
+attend v S2, W2 
+attention n S2, Wl 
+attitude n S2, Wl 
+attorney n S2, W3 
+attract v S2, W2 
+El - one of the 1000 most frequent words in Spoken English 
+QJ = one of the 2000 most frequent words in Spoken English. 
+Kl = one of the 3000 most frequent words in Spoken English. 
+m - one of the 1000 most frequent words in Written English 
+FTO - one of the 2000 most frequent words in Written English 
+m - one of the 3000 most frequent words in Written English 
+LONGMAN COMMUNICATION 3000 
+attraction n W3 
+attractive adj S2, W2 
+audience nS2, W2 
+aunt n S3, W3 
+author nW2 
+authority n Wl 
+automatic adj S3 
+automatically adv S3, W3 
+autumn n VV3 
+available adj SI, Wl 
+average adj S2, W2 
+average n S2 
+avoid v S2, Wl 
+awake adj S3 
+award n S3, W2 
+award v W3 
+aware adj SI, Wl 
+awareness n W3 
+away adv SI, Wl 
+awful adj SI 
+awkward adj S3 
+baby n SI, Wl 
+back adv SI, Wl 
+back n SI, Wl 
+backvS2, W3 
+back adj S2, W3 
+background n S2, W2 
+backwards adv S3 
+bacon nS3 
+bad adj SI, Wl 
+badly adv S3, W3 
+bag n SI, W2 
+bake vS3 
+balance nS2,W2 
+balance vS3 
+ball n SI, W2 
+ban n W3 
+bandnS2, W2 
+bang v S3 
+bangn S3 
+bank n SI, Wl 
+barn SI, Wl 
+barrier nW3 
+base v SI, Wl 
+base n S2, W2 
+baseball n S3, W2 
+basic adj S2, Wl 
+basically adv SI 
+basis nS2,W1 
+basket n S3 
+bat n S3 
+bathnS2,W3 
+bathroom nS2, W3 
+battery n S2 
+battle nW2 
+be auxiliary SI, Wl 
+bevS1,W1 
+beach n S2, W2 
+bean nS2 
+bearvS2,W2 
+beard n S3 
+beat v S2, W2 
+beat n S3 
+beautiful adj SI, W2 
+beauty n S3, W2 
+because conj SI, Wl 
+because prep SI, Wl 
+become vSI, Wl 
+bed n SI, Wl 
+bedroom n SI, W2 
+beef n S3 
+beernS2, W3 
+before adv SI, Wl 
+before conj SI, Wl 
+before prep SI, Wl 
+beforehand adv S3 
+begin v SI, Wl 
+beginning n SI, W2 
+behalf n S3, W3 
+behave v S3, W3 
+behaviour n S2, Wl 
+behind prep, adv SI, Wl 
+being nS2,W3 
+belief n S3, W2 
+believe v SI, Wl 
+bellnS2,W3 
+belong v S2, W2 
+below adv, prep S2, W2 
+beltnS2, W3 
+bench nS2,W3 
+bend v S3, W3 
+beneath adv, prep W2 
+benefit nS2, Wl 
+benefit vS2,W3 
+beside prep S3, W2 
+best adj SI, Wl 
+best adv SI, W2 
+bet v SI 
+bet n S3 
+better adj SI, Wl 
+better adv SI, Wl 
+between adv, prep SI, Wl 
+beyond prep, adv S2, Wl 
+bicycle n W3 
+bidnW3 
+big adj SI, Wl 
+bikenS2 
+bill n SI, Wl 
+bin n S2 
+birdnS2, W2 
+birth nS2,W2 
+birthday n SI, W3 
+biscuit nS2 
+bit adv, pron SI, Wl 
+bit n SI, Wl 
+bitevS2 
+bite n S3 
+bitter adj S3, W3 
+black adj SI, Wl 
+blade n S3 
+blame i/S2,W3 
+blank adj S3 
+bless v S3 
+blind adj S2, W3 
+block nS2,W2 
+block v S3 
+bloke n S2 
+blonde adj S3 
+blood n S2, Wl 
+blowvS2, W3 
+blow n S3, W3 
+blue adj SI, W2 
+board n SI, Wl 
+boat n SI, W2 
+body n SI, Wl 
+boil v S3 
+boiler n S3 
+boiling adj S3 
+bomb n S3, W3 
+bonenS2, W2 
+bonus nS2 
+book n SI, Wl 
+book vS2 
+boom n S3 
+boot n S2, W3 
+border n S3, W2 
+bored adj S3 
+boring adj S2 
+born v SI, W2 
+borrow v S2, W3 
+boss n S2, W3 
+both determiner, 
+predeterminer, pron 
+SI, Wl 
+bother v SI, W3 
+bottle n SI, W2 
+bottom adj SI, W3 
+bottom n SI, W3 
+bounce vS3 
+bound adj S2, W3 
+bowl n S2, W3 
+box n SI, Wl 
+boy n SI, Wl 
+boyfriend n S3 
+brain nS2,W2 
+branch nS2,W2 
+brave adj S3 
+bread n S2, W3 
+break nS2,W2 
+break v SI, Wl 
+breakfast n S2, W2 
+breast n S3 
+breath n S3, W2 
+breathe v S3, W3 
+brick nS2,W3 
+bridge nS2,W2 
+brief adj S2, W2 
+briefly adv S2, W3 
+bright adj S2, W2 
+brilliant adj S2,W3 
+bring v SI, Wl 
+broad adj S2, W2 
+brother n SI, Wl 
+brown adj S2, W2 
+brush n S3 
+brush vS3 
+buckn SI 
+bucket n S2 
+buddy n S3 
+budget n SI, W2 
+bug n S3 
+build v SI, Wl 
+builder n S3 
+building n SI, Wl 
+bump vS3 
+bunch nS2 
+burni/S2, W3 
+burnn S3 
+burst vW3 
+bury vW3 
+bus n SI, W2 
+business n SI, Wl 
+busy adj SI, W2 
+but conj SI, Wl 
+but prep S2, W3 
+but adv S2, W3 
+butcher n S3 
+butter n S2 
+button n S2 
+buy v SI, Wl 
+buyer n S3, W3 
+by adv SI, Wl 
+by prep SI, Wl 
+bye interjection SI 
+bye n S3 
+cabinet n S2, W2 
+cable nW3 
+cake n S2, W3 
+calculate vS2,W3 
+calculation nS2 
+calculator n S3 
+calendar n S3 
+call n SI, Wl 
+callvS1,W1 
+calm adj S3, W3 
+camera nS2, W3 
+camp n S3, W3 
+campaign nS2, Wl 
+can modal SI, Wl 
+can n S2 
+cancel vS2 
+cancer nS2,W2 
+candidate nW2 
+candle nS3 
+candy n S3 
+cap n S3 
+capable adj S2, W2 
+capacity n S3, W2 
+capital n S3, Wl 
+capital adj S2, W3 
+captain n W3 
+capture v W3 
+earn SI, Wl 
+card n SI, W2 
+care n SI, Wl 
+care v SI, W2 
+career n S2, W2 
+careful adj SI, W2 
+carefully adv S2, W2 
+carpet nS2,W3 
+LONGMAN COMMUNICATION 3000 
+carrot n S3 
+cherry n S3 
+collect v SI, W2 
+carry v SI, W1 
+chest n S2, W3 
+collection n S2, Wl 
+cartoon nS3 
+chicken nS2 
+college n SI, W2 
+case n SI, W1 
+chief adj S2, W2 
+colour n SI, Wl 
+cashnS2,W2 
+chief nW3 
+column n S3, W2 
+cash /S3 
+child n SI, W1 
+combination n S3, W2 
+cast/W3 
+childhood n W3 
+combine i/S3, W2 
+castle n W3 
+chipnS2, W3 
+come /SI, Wl 
+cat n SI, W3 
+chocolate n S2 
+comfort n W3 
+catalogue n W3 
+choice n SI, W1 
+comfortable adj S2,W3 
+catch v SI, W1 
+choose v SI, W1 
+command n W3 
+category n S2, W2 
+chop vS3 
+comment n SI, W2 
+cause /SI, W1 
+chuck /S3 
+comment /S3, W3 
+cause n S2, W1 
+church n SI, W1 
+commercial adj S3, W2 
+CDnS3,W3 
+cigarette n S2, W3 
+commission n S3, W2 
+cease / W3 
+cinema n S3 
+commit i/S2, W2 
+ceiling n S3, W3 
+circle nS2,W2 
+commitment n S2, W2 
+celebrate v W3 
+circuit nW3 
+committee n S3, Wl 
+celebration nS3 
+circumstance n S2, W1 
+common adj SI, Wl 
+cell n S3, W2 
+citizen n S2, W2 
+communicate v S3, W3 
+cellphone nS2,W3 
+city n SI, W1 
+communication n S2, Wl 
+cent n SI, W1 
+civil adj S3, W2 
+community n SI, Wl 
+centimetre n S3, W3 
+claim nS2,W1 
+company n SI, Wl 
+central adj SI, W1 
+claim v SI, W1 
+compare i/SI, Wl 
+centre n SI, W1 
+class n SI, W1 
+comparison n S3, W2 
+century nS2, W1 
+classic adj W3 
+compete v S3, W3 
+cereal n S3 
+classical adj W3 
+competition n S2, Wl 
+certain adj SI, W1 
+classroom n S3, W3 
+competitive adj S3, W3 
+certainly adv SI, W1 
+clean odj S2, W2 
+complain 1/S2, W3 
+certificate n S3, W3 
+clean v SI, W3 
+complaint n S3, W3 
+chain n S3, W2 
+cleaner n S3 
+complete adj S2, Wl 
+chair n SI, W2 
+clear adj SI, W1 
+complete i/S2, Wl 
+chairman nS3, W1 
+clean/ SI, W2 
+completely adv SI, W2 
+challenge nS2,W2 
+clearly adv SI, W1 
+complex adj S3, W2 
+challenge v/ S3, W3 
+clerk n S3 
+complicated adj S2 
+champion n W3 
+clever odj S2 
+component nW2 
+championship n W3 
+click /S3 
+comprehensive adj W3 
+chance n SI, W1 
+client n S2, W1 
+comprise v W3 
+change n SI, W1 
+climate nW3 
+computer n SI, Wl 
+change v SI, W1 
+climb /W2 
+concentrate v S2, W2 
+channel n S3, W2 
+clock nS2,W3 
+concentration n S3, W2 
+chap n S2 
+close adj SI, Wl 
+concept n S3, W2 
+chapter n S3, W1 
+close adv S2, W2 
+concern n SI, Wl 
+character n SI, W1 
+close i/SI, Wl 
+concern v W3 
+characteristic n S3, W2 
+closed adj S3 
+concerned odj SI, Wl 
+characterize v W3 
+closely adv S3, W2 
+concerning prep W3 
+charge n SI, W1 
+closet n S3 
+concert n S3, W3 
+charge / SI, W2 
+cloth n S3 
+conclude / S3, W2 
+charity n S3, W3 
+clothes n S2, W2 
+conclusion nS3, W2 
+chart n S3, W3 
+cloud n S3, W3 
+condition n S2, Wl 
+chase /S3 
+club n SI, Wl 
+conduct n W3 
+chatnS2 
+cluenS2 
+conduct v W2 
+cheap adj SI, W2 
+coach n S3, W2 
+conference n S2, Wl 
+cheat /S3 
+coal n S2, W2 
+confidence nS2, W2 
+check / SI, W2 
+coast n S3, W2 
+confident adj S3, W3 
+check n SI, W3 
+coat n S2, W3 
+confine v W3 
+cheek nW3 
+code n S2, W2 
+confirm vS2, W2 
+cheese n S2, W3 
+coffee n SI, W2 
+conflict n S3, W2 
+chemical adj W3 
+coin n S3 
+confused adj S3 
+chemical n S3, W3 
+cold odj SI, Wl 
+confusing odj S3 
+chemist n S3 
+collapse vS3 
+confusion n S3, W3 
+chemistry nS2 
+collar n S3 
+congratulation n S3 
+cheque n S2 
+colleague nS2,W2 
+connect i/S2,W2 
+connection n S3, W2 
+conscious adj S2, W3 
+consciousness n W3 
+consent nW3 
+consequence n S3, W2 
+consider v SI, Wl 
+considerable adj S3, Wl 
+considerably adv S3 
+consideration n S2, W2 
+consist v W3 
+consistent adj S3, W3 
+constant adj S3, W3 
+constantly adv S3, W3 
+constitute v W3 
+construct v W3 
+construction n S3, W2 
+consult v S3, W3 
+consumer n S3, W2 
+consumption n W3 
+contact n S2, W2 
+contact \/S2, W2 
+contain 1/S2, Wl 
+contemporary adj W2 
+content n S3, W2 
+contest n W3 
+context n S2, W2 
+continue /SI, Wl 
+continuous adj S3, W3 
+contract n SI, Wl 
+contrast n W2 
+contribute / S3, W2 
+contribution n S2, W2 
+control n SI, Wl 
+control / S2, Wl 
+convenient adj S3 
+convention n W2 
+conventional adj W3 
+conversation n SI, W2 
+convert v W3 
+conviction nW3 
+convince vS3, W3 
+cook/ SI, W3 
+cooker n S3 
+cookie n S3, W3 
+cool odj S2, W3 
+cool / S2 
+cooperation n S3, W3 
+cope/S2, W3 
+copynS1,W2 
+copy /S2 
+core n W3 
+corn n S3 
+corner n SI, W2 
+correct adj SI, W2 
+correct / S3 
+corridor n S3, W3 
+cost n SI, Wl 
+cost v SI, W2 
+cottage n S3, W3 
+cotton n W3 
+could modal SI, Wl 
+council nS2,W2 
+count /S2.W3 
+LONGMAN COMMUNICATION 3000 
+counter n S3 
+country n SI, W1 
+countryside n S3, W3 
+county n W2 
+couple n SI, W1 
+courage n S3 
+course n SI, W1 
+court n SI, W1 
+cousin nS2 
+cover n SI, W2 
+cover v SI, W1 
+cow n S2 
+crack vS3 
+craft n W3 
+crash n S3 
+crazy adj S2 
+create v S2, W1 
+creation nW2 
+creative ad/ W3 
+creature n W3 
+credit nS2,W2 
+credit card n S3, W3 
+crew n S3, W3 
+crime nS2,W2 
+criminal adj S3, W2 
+crisis n S3, W2 
+criterion n W2 
+critic nW3 
+critical adj S3, W2 
+criticism n S3, W2 
+criticize vW3 
+cropn W3 
+cross adj S2 
+cross n S3, W3 
+cross v S2, W2 
+crowd n S3, W2 
+crown n W3 
+crucial adj W2 
+cruel ad; S3 
+crynW3 
+cryvS2, W2 
+cultural ad/ W2 
+culture nS2,W1 
+cup n SI, W1 
+cupboard n S2 
+curious adj S3 
+currency nW2 
+current adj S2, W2 
+current nW3 
+currently adv S2, W2 
+curtain n S3, W3 
+curve n S3, W3 
+cushion n S3 
+custom n W3 
+customer n SI, W1 
+cut n S2, W2 
+cut v SI, W1 
+cute ad/ S2 
+cycle n S3, W3 
+dad n SI, W3 
+daddy n SI 
+daft adj S3 
+daily adj S3, W2 
+damage n S3, W2 
+damage vS3, W3 
+dance nS2,W3 
+dance vS2,W3 
+danger nS2,W2 
+dangerous adj S2, W2 
+dare v S3, W3 
+dark adj S2, W1 
+darkness nW3 
+darling n S2 
+data n SI, W1 
+database n S3, W3 
+date n SI, W1 
+date v S3, W3 
+daughter n SI, W1 
+day n SI, W1 
+dead adj SI, W1 
+dead adv S3 
+deaf adj W3 
+deal n SI, W1 
+deal v SI, W1 
+dealer nW3 
+dear adj S2, W2 
+dear interjection SI 
+dearnS2 
+death n SI, W1 
+debate n S2, W2 
+debtnS3,W2 
+decade nW2 
+decent adj S3 
+decide v SI, W1 
+decision n SI, W1 
+declare vW2 
+decline nW2 
+decline v W3 
+deep adj S2, W1 
+deep adv W3 
+deeply adv W3 
+defeat n W3 
+defeat vW3 
+defence n S2, W1 
+defend v S3, W3 
+define vS2,W2 
+definite adj S3 
+definitely adv SI 
+definition nS2,W2 
+degree n S2, W1 
+delay nW3 
+delay vW3 
+deliberately adv S3 
+deliver v S2, W2 
+delivery n S3, W3 
+demand r? S2, W1 
+demand v W2 
+democracy nW2 
+democratic adj W2 
+demonstrate v S3, W2 
+demonstration n W3 
+dentist n S3 
+deny v S3, W2 
+department n S2, Wl 
+departure n W3 
+depend v SI, W2 
+dependent adj W3 
+deposit n S3, W3 
+depression n W3 
+depth n S3, W3 
+derive v W3 
+describe v S2, Wl 
+description n S2, W2 
+desert n W3 
+deserve v S3, W3 
+design n S2, Wl 
+design v S3, Wl 
+designer n W3 
+desire n W2 
+desknS2, W2 
+desperate adj S3, W3 
+despite prep S3, Wl 
+destroy v S2, W2 
+destruction n W3 
+detail nS2, Wl 
+detailed adj W2 
+detect vW3 
+determination n W3 
+determine vW2 
+determined adj W3 
+develop vS2, Wl 
+development n SI, Wl 
+device n S3, W2 
+devil n S3 
+diagram n S3 
+diamond n S3 
+diary n S3 
+die v SI, Wl 
+diet n S3, W2 
+differ vW3 
+difference n SI, Wl 
+different adj SI, Wl 
+difficult adj SI, Wl 
+difficulty n S2, Wl 
+dig vS2 
+dimension nW3 
+dinner n SI, W2 
+direct adj S2, Wl 
+direct v S3, W2 
+direction n SI, Wl 
+directly adv S2, W2 
+director n S2, Wl 
+directory n S3 
+dirt n S3 
+dirty adj S2, W3 
+disabled adj S3, W3 
+disagree vS3 
+disappear vS2, W2 
+disappoint v W3 
+disappointed adj S3, W3 
+disaster n S3, W3 
+discnS2, W3 
+discipline n S3, W3 
+discount n S3 
+discover vS2, Wl 
+discovery nW3 
+discuss vS2, Wl 
+discussion n S2, Wl 
+disease n S3, Wl 
+disgusting adj S2 
+dishnS2, W3 
+disknS2, W3 
+dismiss v W3 
+display n S3, W2 
+display v W2 
+dispute n W2 
+distance nS2,W2 
+distant adj W3 
+distinct adj W3 
+distinction n W3 
+distinguish vS3, W3 
+distribute vW2 
+distribution n W2 
+district n S3, W2 
+disturb vW3 
+divide vS2,W2 
+division n S3, Wl 
+divorce n S3 
+do auxiliary SI, Wl 
+dovSI, Wl 
+doctor n SI, Wl 
+document n S2, W2 
+dognS1,W1 
+dollar n SI, W2 
+domestic adj W2 
+dominant adj W3 
+dominate v W3 
+doom SI, Wl 
+dotnS2 
+double adj SI, W2 
+double vS3 
+doubt n SI, Wl 
+doubt vS2 
+down adv, prep, adj SI, Wl 
+downstairs adv S2 
+downtown adv S3, W3 
+dozen number S2, W3 
+draft nS2,W3 
+drag v S3, W3 
+drama n W3 
+dramatic adj W3 
+draw n S3 
+draw v SI, Wl 
+drawer n S3 
+drawing n S3, W3 
+dream n S2, W2 
+dream v S3, W3 
+dress n S2, W2 
+dress vS2,W2 
+drink n SI, W2 
+drink v SI, W2 
+drive nS2,W2 
+drive v SI, Wl 
+driver n SI, W2 
+dropnS2, W3 
+drop v SI, W2 
+drugnS2, Wl 
+drunk adj S3 
+dry adj S2, W2 
+dryvS2, W3 
+duckn S3 
+LONGMAN COMMUNICATION 3000 
+dude n S3 
+empire nW3 
+ever adv SI, Wl 
+eye n SI, Wl 
+due adj S1,W1 
+employ vS3, W2 
+employee n S2, W2 
+every determiner SI, Wl 
+everybody pron SI, W3 
+dull ad;S3 
+face n SI, Wl 
+dumb adj S3 
+employer n S2, W2 
+everyone pron SI, Wl 
+face v SI, Wl 
+dump vS3 
+employment n S2, W1 
+everything pron SI, Wl 
+facility n S2, Wl 
+during prep SI, W1 
+empty adj S2, W2 
+everywhere adv S2, W3 
+fact n SI, Wl 
+dust n S3, W3 
+enable v S3, W1 
+evidence n S2, Wl 
+factor n S3, Wl 
+dutynS2, W1 
+encounter v W3 
+evil adj S3, W3 
+factory n S2, W2 
+DVD n S3, W3 
+encourage vS2, W1 
+exact adj S3 
+fail vS2, Wl 
+encouraging adj S3 
+end n SI, W1 
+exactly adv SI, W2 
+exam n SI 
+failure n S3, W2 
+each determiner, pron, adv 
+fair adj SI, W2 
+S1,W1 
+end v SI, W1 
+examination nW2 
+fair adv S2, W3 
+each other pron SI, W1 
+enemy nW2 
+examine vS3, W2 
+fairly adv SI, W2 
+earnS2, W2 
+energy n S2, W1 
+example n SI, Wl 
+faith n S3, W2 
+early adj SI, W1 
+engage v W3 
+excellent adj SI, W2 
+fall n S2, W2 
+early adv SI, W1 
+engine n S2, W2 
+except conj, prep S2, W2 
+fallvS1,W1 
+earn vS2, W2 
+engineer n S3, W3 
+exception nS3, W2 
+false adj W3 
+earth n S2, W2 
+engineering n S3, W3 
+exchange nS2, Wl 
+familiar adj S3, W2 
+ease v W3 
+enhance v W3 
+excitement n S3, W3 
+family n SI, Wl 
+easily adv S2,W1 
+enjoy v SI, W1 
+exciting adj S2, W3 
+famous adj S2, W2 
+eastnS1,W2 
+enjoyable adj S3 
+exclude v W3 
+fan n S3, W2 
+eastern adj S2, W2 
+enormous adj S2, W3 
+excuse n S3 
+fancy adj S3 
+easy adj SI, W1 
+enough adv SI, W1 
+excuse vSI 
+fancy v S2 
+easy adv S2 
+enough determiner, pron 
+executive adj W3 
+fantastic adj S3 
+eat v SI, W1 
+SI, W2 
+executive n S3, W2 
+far adj SI, Wl 
+economic adj S2, W1 
+enquiry nS2,W2 
+exercise n S2, W2 
+far adv SI, Wl 
+economics nW3 
+ensure v S2, W1 
+exercise vS3, W2 
+farm n S2, W2 
+economy n S2, W1 
+enter vS2,W1 
+exhibition nW2 
+farmer nS2,W2 
+edge n S2, W2 
+enterprise n W2 
+exist vS2, Wl 
+fascinating adj S3 
+edition nW3 
+entertainment n S3, VV3 
+existence n S3, W2 
+fashion n S3, W2 
+editor n W2 
+enthusiasm n W3 
+existing adj S2, W2 
+fast adj S2, W2 
+education n SI, W1 
+enthusiastic adj S3 
+exit n S3 
+fast adv S2, W3 
+educational adj S3, W2 
+entire adj S3, W2 
+expand vS3, W3 
+fat adj S2, W3 
+effect n SI, W1 
+entirely adv S2, W2 
+expansion nW3 
+father n SI, Wl 
+effective adj S2, W1 
+entitle v S3, W3 
+expect v SI, Wl 
+fault nS2,W3 
+effectively adv S3, W2 
+entrance n S3, W3 
+expectation n S3, W2 
+favour nS2,W3 
+efficiency n W3 
+entry n S3, W2 
+expenditure n W3 
+favour v W3 
+efficient adj S3, W3 
+envelope n S3 
+expense n S3, W2 
+favourite adj S3, W3 
+effort n SI, W1 
+environment n SI, W1 
+expensive adj SI, W2 
+fear n S3, Wl 
+egg n SI, W2 
+environmental adj S2, W2 
+experience nSI, Wl 
+fearvW2 
+either conj SI, W1 
+equal adj SI, W2 
+experience vS2, W2 
+feature n S2, Wl 
+either determiner, pron 
+equal vS2 
+experienced adj S3 
+feature v W3 
+S1,W1 
+equally adv S3, W2 
+experiment n S3, W2 
+federal adj Wl 
+elderly adj S3, W2 
+equipment n S2, W2 
+experimental adj W3 
+fee n S3, W3 
+elect v S3, W3 
+equivalent adj W3 
+expert adj W3 
+feed v SI, W2 
+election nS2,W1 
+era n W3 
+expert n S3, W2 
+feedback n S3 
+electric adj S2, W3 
+error n S3, W2 
+explain vSI, Wl 
+feel v SI, Wl 
+electrical adj S3 
+escape n S3 
+explanation n S3, W2 
+feeling n SI, Wl 
+electricity n S2, W3 
+escape vS3, W2 
+explore vS3, W2 
+fellow adj W3 
+electronic adj S3, W3 
+especially adv SI, W1 
+explosion n W3 
+female adj S3, W2 
+element nS2,W1 
+essay n S3 
+export n W2 
+female n W3 
+elevator n S3, W3 
+essential adj S3, W2 
+expose v W3 
+fence n S3 
+else adv SI, W1 
+essentially adv S2, W3 
+express v S2, Wl 
+festival n S3, W3 
+elsewhere adv S3, W2 
+establish vS2,W1 
+expression n S2, W2 
+fetch v S3 
+email nS2,W2 
+establishment n W2 
+extend v S3, W2 
+few determiner, pron, adj 
+email vS2,W2 
+estate n S2, W2 
+extension n S3, W3 
+SI, Wl 
+embarrassed adj S3 
+estimate n S3, W2 
+extensive adj W3 
+field n SI, Wl 
+emerge v W2 
+estimate v S3, W2 
+extent n S2, Wl 
+fight n S2, W3 
+emergency n S3, W3 
+ethnic adj W3 
+external adj W2 
+fight v SI, Wl 
+emotion nW3 
+even adv SI, W1 
+extra adj SI, W2 
+figure n SI, Wl 
+emotional adj S3, W3 
+evening n SI, Wl 
+extraordinary adj S3, W3 
+figure v SI, W3 
+emphasis n S3, W2 
+event n SI, Wl 
+extreme adj S3, W3 
+file n SI, W2 
+emphasize vS3, W2 
+eventually adv SI, W2 
+extremely adv S2, W2 
+file v S3, W3 
+LONGMAN COMMUNICATION 3000 
+fill v SI, W1 
+formally adv S3 
+gather v S3, W2 
+green adj SI, W2 
+film n SI, W1 
+formation n W3 
+gay adj S3, W3 
+green n S2, W3 
+filthy adj S3 
+former adj S2, Wl 
+gear n S3 
+grey adj S2, W2 
+final adj SI, Wl 
+formula n S3, W3 
+gene n S3, W3 
+grocery n S3 
+final nW3 
+forth adv S2 
+general adj SI, Wl 
+gross adj S3 
+finally adv S2,W1 
+fortnight n S3 
+generally adv S2, Wl 
+ground n SI, Wl 
+finance n S3, W2 
+fortunate ad/' S3 
+generate v S3, W2 
+group n SI, Wl 
+finance v W3 
+fortune n S3, W3 
+generation nS3, W2 
+grow v SI, Wl 
+financial adj S2, Wl 
+forward adj S2, W3 
+generous adj W3 
+growth n S3, Wl 
+find 1/ SI, Wl 
+forward adv SI, Wl 
+gentle adj S3, W3 
+guarantee n S3 
+finding nW2 
+foundation nW2 
+gentleman n S2, W2 
+guarantee vS2, W3 
+fine adj SI, Wl 
+frame n S3, W3 
+gently adv W3 
+guard n S3, W3 
+fine adv S3 
+frankly adv S3 
+genuine adj S3, W3 
+guess n S3 
+finger nS2,W2 
+free adj SI, Wl 
+get v SI, Wl 
+guess v SI, W3 
+finish n S3 
+free v S3, W3 
+giant adj W3 
+guest n S3, W2 
+finish v SI, W2 
+freedom n S3, W2 
+gift n S2, W2 
+guidance n S3, W3 
+fire n SI, Wl 
+freeway n S2, W3 
+girl n SI, Wl 
+guide n S3, W2 
+firevS3,W3 
+freeze vS3, W3 
+girlfriend n S3 
+guide v W3 
+firm adj S3, W2 
+freezer n S3 
+give v SI, Wl 
+guilty adj S2, W3 
+firm n SI, Wl 
+frequent adj W3 
+glad adj S2, W3 
+guitar n S3, W3 
+first adj SI, Wl 
+frequently adv S3, W2 
+glance n W3 
+gunnS2, W2 
+first adv SI, W2 
+fresh adj S2, W2 
+glass n SI, Wl 
+guy n SI, W3 
+firstly adv S3 
+fridge n S2 
+global adj W2 
+fish n SI, Wl 
+friend n SI, Wl 
+glove n S3 
+habit n S3, W3 
+fish v S3 
+friendly adj S2, W3 
+gonSI 
+hair n SI, Wl 
+fishing n S3 
+friendship nW3 
+go v SI, Wl 
+half adv S2 
+fit adj S2, W3 
+frightened adj S3 
+goalnS2, Wl 
+halfnS1,W2 
+fitvS1,W2 
+from prep SI, Wl 
+god n SI, Wl 
+half predeterminer, pron, 
+fixvS2, W2 
+front adj SI, W2 
+gold adj S3, W3 
+adj SI, Wl 
+fixed adj S3, W3 
+front n SI, Wl 
+gold n S2, W2 
+halfway adj, adv S3 
+flash v S3 
+fruit nS2,W3 
+golden adj W3 
+hall n S2, W2 
+flat adj S2, W2 
+fry vS3 
+golfnS2,W3 
+hand n SI, Wl 
+flat n S2, W3 
+fuel n S3, W2 
+good adj SI, Wl 
+handvS2, W2 
+flavour nW3 
+fulfil vW3 
+good morning interjection 
+handbag n S3 
+flesh nW3 
+full adj SI, Wl 
+S2 
+handle n S3 
+flight n S3, W2 
+fully adv S2, W2 
+good night interjection S3 
+handle vS2,W2 
+flood vW3 
+fun adj S2.W3 
+goodbye interjection S3 
+handy adj S3 
+floor n SI, Wl 
+funnS2, W3 
+goodness n S2 
+hang v SI, W2 
+flow n S3, W2 
+function n S3, Wl 
+goods n S2, W2 
+happen vSI, Wl 
+flow vW3 
+fund n S3, Wl 
+gorgeous adj S3 
+happy adj SI, Wl 
+flower n S2, W2 
+fund v S3, W3 
+gosh interjection S2 
+hard adj SI, Wl 
+flyvS2,W2 
+fundamental adj W2 
+govern v W3 
+hard adv SI, W2 
+focus n S3, W2 
+funeral n S3 
+government n S2, Wl 
+hardly adv S2, W2 
+focus v S3, W2 
+funny adj SI, W3 
+governor n W3 
+harm n S3, W3 
+foldvW3 
+furniture n S2, W3 
+grabvS2, W3 
+hatnS1,W3 
+folknS2,W3 
+further adv SI, Wl 
+grade n S2, W3 
+hate v SI, W3 
+follow v SI, Wl 
+fuss n S3 
+gradually adv S3, W3 
+have v SI, Wl 
+following adj S3, Wl 
+future adj SI, Wl 
+gram n S3 
+have v SI, Wl 
+food n SI, Wl 
+future n SI, Wl 
+grammar n S3, W3 
+have v SI, W3 
+foot n SI, Wl 
+grand adj S2, W3 
+grandad n S3 
+he pron SI, Wl 
+football n SI, W2 
+gain n W3 
+head n SI, Wl 
+for prep SI, Wl 
+gain v S3, W2 
+grandfather n S3 
+head v S2, W2 
+force n S2, Wl 
+gallery nW3 
+grandma n S2 
+headquarters nW3 
+force v S2, Wl 
+game n SI, Wl 
+grandmother n S3 
+health n SI, Wl 
+foreign adj S3, Wl 
+gang n S3 
+grandpa n S3 
+healthy adj S3, W3 
+forest n S2, W2 
+gap n S2, W2 
+granny n S3 
+hear v SI, Wl 
+forever adv S2, W3 
+garage n S2 
+grant n S2, W2 
+hearing n S3, W2 
+forget v SI, Wl 
+garbage n S3 
+grant vS2,W2 
+heart n SI, Wl 
+forgive v S3 
+garden n SI, Wl 
+graph n S3 
+heatnS2, W2 
+fork n S3 
+garlic nS3 
+grass n S2, W2 
+heat v S3 
+form n SI, Wl 
+gas n SI, W2 
+grateful adj S3, W3 
+heater n S3 
+form v S2, Wl 
+gasoline n S3, W3 
+great adj SI, Wl 
+heating n S3 
+formal adj S2,W2 
+gate n S2, W2 
+greatly adv W3 
+heaven n S3, W3 
+LONGMAN COMMUNICATION 3000 
+heavily adv\N3 
+heavy adj SI, W1 
+height n S2, W3 
+hell n SI, W3 
+hello interjection, n SI 
+help n SI, W1 
+help v SI, W1 
+helpful adj S2, W3 
+hence adv W3 
+her determiner SI, W1 
+her pron SI, W1 
+here adv SI, W1 
+heronW3 
+hers pron S3, W3 
+herself pron S2, W1 
+hesitate vW3 
+hi interjection SI 
+hidevS2, W2 
+high adj SI, W1 
+high adv S3 
+highlight vW3 
+highly adv S2,W2 
+highway n S3 
+hill nS2, W2 
+him pron SI, W1 
+himself pron SI, W1 
+hire 1/ S2, W3 
+his determiner, pron SI, W1 
+historian n W3 
+historical adj W2 
+history nS2,W1 
+hitnS3,W3 
+hit v SI, W2 
+holdnS2, W3 
+hold v SI, W1 
+holder nW2 
+holding nW3 
+hole n SI, W2 
+holiday n SI, W2 
+holy adj W3 
+home adv SI, W1 
+home n SI, W1 
+homework n S2 
+honest adj SI, W3 
+honestly adv S2 
+honey n S2 
+honour n W3 
+hookn S3 
+hook v S3 
+hopenS2, W2 
+hope v SI, W1 
+hopefully adv SI 
+hopeless adj S3 
+horrible adj S2 
+horror n W3 
+horse n SI, W1 
+hospital n SI, W1 
+host n W3 
+hot adj SI, W2 
+hotel n S2, W1 
+hour n SI, W1 
+house n SI, W1 
+household n S3, W2 
+housing nW2 
+how adv, conj SI, W1 
+however adv SI, W1 
+huge adj SI, W2 
+human adj S2, Wl 
+human n W3 
+hungry odj S2 
+hunti/W3 
+hurry n S3 
+hurry v S3 
+hurt v SI, W2 
+husband n SI, W1 
+I pron SI, Wl 
+ce n S2, W3 
+ce cream n S2 
+dea n SI, Wl 
+deal adj S3, W3 
+deally adv S3 
+dentify v S2, Wl 
+dentity n W2 
+diotnS3 
+f conj SI, Wl 
+gnore v S2, W2 
+II adj S3, W2 
+llegal adj W3 
+llnessnS3, W3 
+llustratei/W2 
+mage n S2, Wl 
+magination n S3, W3 
+magine vSI, W2 
+mmediate adj S3, W2 
+mmediately adv S2, Wl 
+mpactnS3, W2 
+mplement v W3 
+mplication n S3, W2 
+mply 1/ W2 
+mport n W3 
+mportancenS3, Wl 
+mportant adj SI, Wl 
+mpose vS3, W2 
+mpossible odj S2, W2 
+mpress vS3, W3 
+mpression n S2, W2 
+mpressive odj W3 
+mprove v S2, Wl 
+mprovement n S3, W2 
+n adv SI, W1 
+n prep SI, Wl 
+nchnS2,W3 
+ncidentnS3, W2 
+ncludevSI, Wl 
+ncluding prep S2, Wl 
+ncome n S2, Wl 
+ncorporate v W3 
+ncrease n S2, Wl 
+ncrease v S2, Wl 
+ncreasingly adv W2 
+ncredible adj S3 
+ncredibly adv S3 
+ndeed adv SI, Wl 
+ndependence n W2 
+ndependent adj S2, W2 
+index n W2 
+indicate v S3, Wl 
+indication n S3, W3 
+individual adj S2, Wl 
+individual nS2, Wl 
+industrial adj S3, Wl 
+industry nS2, Wl 
+inevitable adj W3 
+inevitably adv W3 
+infant n W3 
+infection nW3 
+inflation n S3, W2 
+influence nS3, Wl 
+influence vS3, W2 
+inform vS3, W3 
+informal adj W3 
+information n SI, Wl 
+initial adj S3, W2 
+initially adv S3, W3 
+initiative n S3, W2 
+injure v W3 
+injury n S3, W2 
+inner adj S3, W2 
+innocent adj W3 
+innovation n W3 
+input nW3 
+inquiry nW2 
+insect n W3 
+inside adv, prep S2, W2 
+inside n S3 
+insist v S3, W2 
+inspection nW3 
+inspector n S3, W3 
+install vW3 
+instance n S3, W2 
+instant adj S3 
+instead adv SI, Wl 
+institute n W3 
+institution n Wl 
+instruction n S3, W2 
+instrument nW2 
+insurance n S2, W2 
+intellectual adj W3 
+intelligence n S3, W3 
+intelligent adj S3 
+intend vS2, Wl 
+intense adj W3 
+intention nS3, W2 
+interaction nW3 
+interest n SI, Wl 
+interested adj SI, W2 
+interesting adj SI, W2 
+internal adj W2 
+international adj S2, Wl 
+internet n S2, W2 
+interpret v W3 
+interpretation n W2 
+interval n W3 
+intervention n W3 
+interview nS2, W2 
+interview vS2 
+into prep SI, Wl 
+introduce vS2, Wl 
+introduction n S3, W2 
+invest v S3, W3 
+investigate v W2 
+investigation n W2 
+investment n S2, Wl 
+invite i/S2, W2 
+involve v S2, Wl 
+involved adj S2, W3 
+involvement n W3 
+iron n S2, W3 
+iron vS3 
+island n S3, W2 
+issue n SI, Wl 
+issue v S3, W2 
+it pron SI, Wl 
+item n S3, W2 
+its determiner SI, Wl 
+itself pron SI, Wl 
+jacket n S2, W3 
+jam n S3 
+job n SI, Wl 
+join ir SI, Wl 
+joint adj S2, W2 
+joke n S2, W3 
+joke v S3 
+journalist n W3 
+journey n S3, W2 
+joy n W3 
+judge n S2, W2 
+judge v S3, W3 
+judgment n W2 
+juice n S2 
+jumpn S3 
+jumpvS2, W3 
+jumper n S3 
+junior adj W3 
+jury n S3, W3 
+just adv SI, Wl 
+justice nW2 
+justify v S3, W3 
+keen odj S3, W3 
+keep v SI, Wl 
+kettle n S3 
+key adj S3, W2 
+key n S2, W2 
+keyboard n S3 
+kick n S3 
+kickvS2, W3 
+kidnSl,W2 
+kid vS2 
+kill v SI, Wl 
+kilometre n S3, W3 
+kind adj S2, W3 
+kind n SI, Wl 
+king n Wl 
+kiss v S3, W3 
+kit n S3 
+kitchen n SI, W2 
+kneenS2, W2 
+knife n S3, W3 
+knock v SI, W3 
+LONGMAN COMMUNICATION 3000 
+know v SI, W1 
+knowledge n S2, W1 
+known adj W3 
+lab n S3 
+label n S3, W3 
+laboratory n W3 
+labour nS2,W1 
+lack n S3, W2 
+lackvW3 
+ladnS2, W3 
+ladder n S3 
+lady n SI, W2 
+lake n S3, W3 
+lamb n S3 
+lampn S3 
+land n SI, W1 
+landvS2, W3 
+landlord nW3 
+landscape n W3 
+lane n S3, W3 
+language n SI, W1 
+large ad/ SI, W1 
+largely adv S3, W2 
+last adv SI, W1 
+last determiner, odj SI, W1 
+last n, pron SI, W1 
+last v SI, W2 
+late adj SI, W1 
+late adv S2, W3 
+later adv SI, W1 
+latter nW2 
+laugh vS2,W2 
+laugh n S3 
+launch v W2 
+lawn SI, W1 
+lawyer n S3, W2 
+layvS1,W2 
+layer n S3, W3 
+lazy adj S3 
+leadvS1,W1 
+leadnS2,W2 
+leader n S2, W1 
+leadership n S3, W2 
+leading adj W2 
+leafnS2, W2 
+league n W2 
+lean v S3 
+learn v SI, W1 
+least determiner, pron 
+SI, W1 
+leathern W3 
+leave vSI, W1 
+leave n S3, W2 
+lecture nS2,W3 
+left adj SI, W1 
+left adv S3, W3 
+left n S3, W3 
+leg n SI, W1 
+legal odj S2.W1 
+legislation nW2 
+leisure nW3 
+lend v S3, W3 
+length nS2,W2 
+less adv SI, W1 
+less determiner, pron SI, 
+W1 
+lesson n S2, W3 
+let v SI, W1 
+letter n SI, W1 
+level odj SI, W2 
+level n SI, W1 
+liberal adj W2 
+library nS2,W1 
+licence n S3, W2 
+lick v S3 
+lid n S3 
+lie vS2, W1 
+lievS3,W3 
+lien S3 
+life n SI, W1 
+liftvS2,W2 
+liftnS3,W3 
+light adj SI, W1 
+light n SI, W1 
+light vS2,W3 
+lighting n S3 
+like prep SI, W1 
+like v SI, W1 
+like adv SI 
+like con/ SI 
+likenW3 
+likely adj SI, W1 
+limit nS2,W2 
+limit v S3, W2 
+limitation n W3 
+limited adj W2 
+linen SI, W1 
+link n S3, W2 
+link v S3, W2 
+lip n S3, W2 
+liquid nW3 
+list n SI, W1 
+listvS2, W3 
+listen v SI, W1 
+literally adv S2 
+literary odj W2 
+literature n S3, W2 
+little odj SI, W1 
+little adv SI, W1 
+little determiner, pron 
+S1,W1 
+live v SI, W1 
+live odj S3, W3 
+lively odj S3 
+living nS2 
+load n SI, W3 
+loannS2, W2 
+local odj SI, W1 
+locate v W3 
+location n S3, VV2 
+locknS2 
+lockvS2, W3 
+logn S3 
+logical odj S3 
+lonely adj S3 
+long adj SI, W1 
+long adv SI, W1 
+long-term adj W3 
+look n SI, W1 
+lookvSI.WI 
+loose adj S3, W3 
+lord n S3, W2 
+lorry n S3 
+lose v SI, W1 
+loss n S2, W1 
+lost adj S2, W3 
+lot pron, adv SI, W1 
+lot n S2 
+loud adj S2, W3 
+loud adv S3 
+lounge n S3 
+love n SI, W1 
+love v SI, W1 
+lovely adj SI, W3 
+lover nW3 
+low odj SI, W1 
+lower v S3, W3 
+lower odj W3 
+lucknS2, W3 
+luckily adv S3 
+lucky adj S2, W3 
+lump n S2 
+lunch n SI, W2 
+lunchtimen S3 
+machine n SI, W1 
+machinery nW3 
+mad adj S2, W3 
+madam n S3 
+magazine n S2, W2 
+magic n W3 
+mail n S3, W3 
+mail vS3 
+main adj SI, W1 
+mainly adv S2, W2 
+maintain vS2, W1 
+maintenance nW3 
+major adj SI, W1 
+majority n S2, W1 
+make v SI, W1 
+male adj S3, W2 
+malenW3 
+mall n S3, W3 
+man n SI, W1 
+manage vSI, W1 
+management n SI, W1 
+manager n SI, W1 
+manner n S3, W2 
+manufacturer n W2 
+manufacturing n W3 
+many determiner, pron, adj 
+SI, W1 
+mapnS2, W2 
+march v W2 
+march n W3 
+margin n W3 
+mark n S3, W2 
+markvS2, W2 
+market n SI, W1 
+marketing n S3, W3 
+marriage n S2, W2 
+married odj S2, W2 
+marry vSI, W2 
+marvellous adj S2 
+mass n W2 
+mass adj W3 
+massive adj S2, W3 
+master n S2, W2 
+match nS2,W2 
+match v S3, W2 
+mate n S2 
+material n SI, W1 
+material odj W3 
+math nS2 
+maths n S2 
+matter n SI, W1 
+matter v SI, W3 
+maximum adj S3, W3 
+may modal SI, W1 
+maybe adv SI, W1 
+me pron SI, W1 
+mealnS2, W2 
+mean v SI, W1 
+meaning n S2, W1 
+means n S2, W2 
+meanwhile adv W2 
+measure vS2, W2 
+measure nW2 
+measurement n W3 
+meatnS2, W3 
+mechanism n S3, W3 
+media nS2,W2 
+medical adj S2, W2 
+medicine n S2, W3 
+medieval adjW3 
+medium adj S3 
+meet v SI, W1 
+meeting n SI, W1 
+member n SI, W1 
+membership n S2, W2 
+memory n S2, W1 
+mental adj S2, W2 
+mention vSI, W1 
+menu nS3 
+mere adj W3 
+merely adv S3, W2 
+messn S2 
+mess vS2 
+message n SI, W2 
+messy adj S3 
+metal nS2,W2 
+method n SI, W1 
+metre n S2, W3 
+middle adj SI, W2 
+middle n SI, W2 
+midnight n S3 
+might moda/ SI, W1 
+mile n SI, W1 
+military adj S2, W1 
+milknS2, W3 
+millimetre n S3 
+10 
+LONGMAN COMMUNICATION 3000 
+mind n SI, W1 
+mind v SI, W2 
+minenS2, W3 
+minepron SI 
+mineral n W3 
+minimum adj S2, W3 
+minister nS1, Wl 
+ministry n W2 
+minor adj S2, W2 
+minority n S3, W2 
+minute n SI, Wl 
+mirror n S3, W3 
+misery n S3 
+miss v SI, W2 
+miss n S2 
+mission n S3, W2 
+mistake n S2, W2 
+mixvS2, W3 
+mixed adj S2 
+mixture n S3, W3 
+mobile n S2 
+mobile phone n S2, W3 
+mode n W3 
+model n S2, Wl 
+modern adj SI, Wl 
+mom n SI 
+moment n SI, Wl 
+mommy n S3 
+money n SI, Wl 
+monitor vS3, W3 
+month n SI, Wl 
+mood n S3, W3 
+moonn W3 
+moral adj S3, W2 
+more adv SI, Wl 
+more determiner, pron 
+S1,W1 
+moreover adv\N2 
+morning n SI, Wl 
+mortgage n W3 
+most adv SI, Wl 
+most determiner, pron 
+S1,W1 
+mostly adv S2.W3 
+mother n SI, Wl 
+motion nW3 
+motor n S3, W3 
+motorway n S2 
+mountain n S3, W3 
+mouse n S2, W3 
+mouth nS2, Wl 
+move v SI, Wl 
+move n S2, Wl 
+movement n SI, Wl 
+movie n SI, W2 
+much adv SI, Wl 
+much determiner, pron 
+SI, Wl 
+mud n S3 
+mum n SI, W2 
+mummy n SI 
+murder n S3, W2 
+muscle n S2, W3 
+museum n S3, W2 
+mushroom n S3 
+music n SI, Wl 
+musical adj S3, W3 
+must modal SI, Wl 
+my determiner SI, Wl 
+myself pron SI, Wl 
+mystery nW3 
+nail n S3 
+naked adj S3 
+name n SI, Wl 
+namei/S2, W2 
+narrow adj S3, W2 
+nasty adj S2 
+nation n S3, W2 
+national adj SI, Wl 
+native adj S3, W3 
+natural adj S2, Wl 
+naturally adv S3, W3 
+nature n SI, Wl 
+naughty adj S3 
+near adv, prep SI, Wl 
+near adj S2, W3 
+nearby adj W3 
+nearly adv SI, Wl 
+neat adj S2 
+necessarily adv S2, W2 
+necessary adj S2, Wl 
+necknS2, W2 
+need n SI, Wl 
+need v SI, Wl 
+negative adj S2, W2 
+negotiate v S3, W3 
+negotiation n S3, W2 
+neighbour n S2, W2 
+neighbourhood n S3, W3 
+neither adv S2, W3 
+neither determiner, pron 
+W3 
+nerve n S3, W3 
+nervous adj S3, W3 
+net n W3 
+netvW3 
+network n S3, W2 
+never adv SI, Wl 
+nevertheless adv S3, W2 
+new adj SI, Wl 
+newly adv W3 
+news n SI, Wl 
+newspaper n S2, W2 
+next adv SI, Wl 
+next determiner, adj SI, Wl 
+nice adj SI, W2 
+nicely adv S3 
+night n SI, Wl 
+nil n S3 
+no adv SI, Wl 
+no determiner SI, Wl 
+no one pron SI, W2 
+no way adv S2 
+nobody pron SI, W2 
+nod v W2 
+noise n S2, W2 
+noisy adj S3 
+none pron SI, W2 
+nonsense n S3 
+nope adv S3 
+nor conj, adv S2, Wl 
+normal adj SI, Wl 
+normally adv SI, W2 
+north n SI, W2 
+northern adj S2, W2 
+nose n S2, W2 
+not adv SI, Wl 
+notably adv W3 
+note n SI, Wl 
+note v S3, Wl 
+nothing pron SI, Wl 
+notice v SI, W2 
+notice n S2, W2 
+notion n W3 
+novel n W3 
+now adv SI, Wl 
+now conj SI, W3 
+nowadays adv S2 
+nowhere adv S2 
+nuclear adj W2 
+nuisance n S3 
+number n SI, Wl 
+numerous adj W3 
+nurse nS2,W3 
+nut n S3 
+object n S3, W2 
+object vS2 
+objection n S3 
+objective n S3, W3 
+obligation n W3 
+observation nW3 
+observe v W2 
+obtain v S3, W2 
+obvious adj S2, W2 
+obviously adv SI, W2 
+occasion nSI, W2 
+occasional adj S3, W3 
+occasionally adv S2, W3 
+occupation n S3, W3 
+occupy v W2 
+occur v SI, Wl 
+ocean n S3, W2 
+o'clock adv SI, W3 
+odd adj SI, W3 
+odds n S3 
+of prep SI, Wl 
+of course adv SI, Wl 
+off adv, prep, adj SI, Wl 
+offence n S3, W2 
+offer v SI, Wl 
+offer n S2, Wl 
+office n SI, Wl 
+officer n SI, Wl 
+official n S3, Wl 
+official adj S3, W2 
+often adv SI, Wl 
+oilnS2, Wl 
+OK adj, adv SI 
+OK interjection SI 
+old adj SI, Wl 
+on prep SI, Wl 
+on adj, adv SI, Wl 
+once adv SI, Wl 
+once conj SI, Wl 
+one number SI, Wl 
+one pron SI, Wl 
+one determiner SI, Wl 
+one another pron S3, W3 
+onion n S3 
+only adj SI, Wl 
+only adv SI, Wl 
+onto prep SI, W2 
+open adj SI, Wl 
+open v SI, Wl 
+opening n S3 
+operate v S2, W2 
+operation nSI, Wl 
+operator nW3 
+opinion nSI, W2 
+opponent n W3 
+opportunity n SI, Wl 
+oppose v S3, W3 
+opposite prep S2, W2 
+opposition n S3, W2 
+option n SI, W2 
+or conj SI, Wl 
+orange n S3 
+order n SI, Wl 
+order vS2,W2 
+ordinary adj SI, W2 
+organ nW3 
+organic adj W3 
+organization n S2, Wl 
+organize vSI, W2 
+organized adj S3 
+ginn W2 
+ginal adj SI, Wl 
+ginally adv S2.W2 
+other determiner, adj, pron 
+S1,W1 
+otherwise adv SI, W2 
+ought to modal SI, Wl 
+ounce n S3 
+our determiner SI, Wl 
+ours pron SI 
+ourselves pron SI, W3 
+out adv SI, Wl 
+out prep SI, Wl 
+outcome nW3 
+output nW2 
+outside adv, prep SI, Wl 
+outside adj S2, W2 
+outside n S3 
+outstanding adj W3 
+oven n S3 
+over adv, adj SI, Wl 
+over prep SI, Wl 
+overall adj S3, W2 
+overcome v W3 
+overseas adv W3 
+LONGMAN COMMUNICATION 3000 
+11 
+overtime n S3 
+owe v S2, W3 
+own adj, pron SI, Wl 
+own v S2, W2 
+owner n S2, W2 
+ownership n W3 
+pace n W3 
+packnS2, W3 
+packvS2, W3 
+package n S2, W2 
+packet n S2 
+pad n S3 
+page n SI, Wl 
+painnS2, W2 
+paint nS2,W2 
+paint vS2,W3 
+painting n S3, W2 
+pairnS2, W2 
+palace nW3 
+pale ad/ W3 
+pan n S3, W3 
+panel n SI, W2 
+panic n S3 
+pants n S3 
+paper n SI, Wl 
+parcel n S3 
+pardon interjection S2 
+parent n SI, Wl 
+park n SI, W2 
+park vS2 
+parking n S3 
+parliament n W2 
+part n SI, Wl 
+participate v W3 
+particular adj SI, Wl 
+particularly adv SI, Wl 
+partly adv S2.W2 
+partner nS2, W2 
+partnership n W3 
+party n SI, Wl 
+pass vS1, Wl 
+passnS2, W3 
+passage n W2 
+passenger n S3, W2 
+passion n W3 
+past adj SI, Wl 
+past n SI, W2 
+past prep, adv SI, W2 
+pathnS2, W2 
+patience n S3 
+patient nS2, Wl 
+patient adj W3 
+pattern n S2, Wl 
+pause v W3 
+pay v SI, Wl 
+pay n SI, W2 
+payment n S2, Wl 
+peace nS2,W2 
+peaceful adj S3 
+peaknW3 
+pen n S2 
+penalty nW3 
+pencil nS2 
+penny n SI 
+pension nS2, W2 
+people n SI, Wl 
+pepper n S3 
+per prep S3, Wl 
+perceive v W3 
+percent n S3, W2 
+percentage n W3 
+perception n W3 
+perfect adj S2, W2 
+perfectly adv S2, W3 
+perform v S3, W2 
+performance n S2, Wl 
+perhaps adv SI, Wl 
+period n SI, Wl 
+permanent adj S2, W2 
+permission nS2, W3 
+permit v W3 
+person n SI, Wl 
+personal adj SI, Wl 
+personality n S3, W3 
+personally adv S2 
+personnel nW3 
+perspective n W3 
+persuade vS3, W2 
+petrol n S3 
+phase nW2 
+philosophy n W3 
+phone n SI, W2 
+phone vSI 
+photo n S3, W3 
+photocopy n S3, W3 
+photocopy v S3, W3 
+photograph n S2, W2 
+phrase n S3, W3 
+physical adj S2, Wl 
+physically adv S3 
+physics n S3 
+piano n S3 
+pick 1/ SI, Wl 
+picture n SI, Wl 
+pie n S2 
+piece n SI, Wl 
+pig n S2 
+pile n S2 
+pill n S3 
+pilot nW3 
+pin nS3 
+pink adj S2, W3 
+pint n S2 
+pipenS2, W3 
+pitch n S3, W3 
+pity n S3 
+pizza n S2 
+place n SI, Wl 
+place vS2,W1 
+plain adj S2, W3 
+plannSI.WI 
+plan v SI, Wl 
+plane nS2,W2 
+planet n W3 
+plant n S2, Wl 
+plastic n S2, W2 
+plate nS2,W2 
+platform n S3, W3 
+play v SI, Wl 
+play n SI, W2 
+player n S2, Wl 
+pleasant adj S3, W3 
+please interjection SI, W2 
+please v W3 
+pleased adj S2, W3 
+pleasure n S2, W2 
+plenty pron SI, Wl 
+plotnW3 
+plugn S3 
+plus prep SI, W2 
+pocket n S2, W2 
+poem n S3, W3 
+poetn W3 
+poetry n W3 
+point n SI, Wl 
+point vS2,W2 
+polenW3 
+police n SI, Wl 
+policeman n S2, W3 
+policy n S3, Wl 
+polite adj S3 
+political adj S2, Wl 
+politician n W2 
+politics nS2,W2 
+pollnW3 
+pollution nW2 
+pond n S3 
+pool n S2, W2 
+poor ad/' SI, Wl 
+pop n S3, W3 
+pop vS2 
+popular adj S2, Wl 
+population n S2, Wl 
+port n W2 
+pose v W3 
+position n SI, Wl 
+positive adj S2, W2 
+possess v W3 
+possession n W3 
+possibility nS2,W2 
+possible ad/ SI, Wl 
+possibly adv SI, W2 
+post n S2, W2 
+post v S3 
+post office n S3 
+poster n S3 
+pot n S2, W3 
+potato n S2 
+potential adj S3, W2 
+potential n W3 
+pound n SI, W2 
+pourvS2, W3 
+poverty n W3 
+power n SI, Wl 
+powerful adj S3, W2 
+practical adj S3, W2 
+practically adv S3 
+practice n S2, Wl 
+practise vS3, W3 
+praise n W3 
+pray v S3, W3 
+prayer n S3, W3 
+precise adj W3 
+precisely adv S2, W3 
+predict vW3 
+prefer v S2, W2 
+preference n W3 
+pregnant adj S3 
+premise n W3 
+preparation nS3, W3 
+prepare vSl, Wl 
+prepared adj S2 
+presence n S3, W2 
+present adj S2, W2 
+present n S2, W3 
+present v S2, Wl 
+presentation n S2, W3 
+preserve v W3 
+president n S2, W2 
+press n S2, W2 
+press v SI, W2 
+pressure n SI, Wl 
+presumably adv SI, W3 
+presume 1/ S3 
+pretend v S2, W3 
+pretty adj S2, W3 
+pretty adv SI, W3 
+prevent v S2, Wl 
+previous adj SI, Wl 
+previously adv S3, W2 
+price n SI, Wl 
+pride n S3, W3 
+priest n W3 
+primarily adv W3 
+primary adj S2, W2 
+prince n W3 
+princess nW3 
+principal adj W2 
+principle nS2, Wl 
+print vS2,W3 
+print nW3 
+printer n S3, W3 
+prior adj W3 
+priority nS2, W2 
+prison n S2, W2 
+prisoner n S3, W2 
+private adj SI, Wl 
+privilege n W3 
+prize n S2, W2 
+probably adv SI, Wl 
+problem n SI, Wl 
+procedure n S2, W2 
+proceed v S3, W3 
+proceeding n W2 
+process n SI, Wl 
+produce vSI, Wl 
+producer n W3 
+product n SI, Wl 
+production n SI, Wl 
+profession n W3 
+professional adj S2, Wl 
+12 
+LONGMAN COMMUNICATION 3000 
+professional n W3 
+professor n S3, W3 
+profile n W3 
+profit n SI, W1 
+program n W1 
+programme n SI, W1 
+progress n S2, W2 
+project n SI, W1 
+promise 1/S2, W2 
+promise n S3, W2 
+promote vS3, W2 
+promotion n S3, W3 
+prompt adj\N3 
+proof n S3, W3 
+proper adj SI, W2 
+properly adv SI, W2 
+property n S2, W1 
+proportion nS2, W2 
+proposal n S2, W1 
+propose v S2, W2 
+proposed adj W3 
+prosecution n W3 
+prospect n W2 
+protect v S2, W2 
+protection n S2, W2 
+protest n W3 
+proud adj S2, W3 
+prove vS2, W1 
+provide vSI, W1 
+provided conj S3, W2 
+providing conjS2 
+provision nS3, W1 
+psychological adj\N3 
+psychology n W3 
+pubnS2, W3 
+public adj SI, W1 
+public nS2,W2 
+publication n W2 
+publicity n S3, W3 
+publish v S3, W1 
+publisher nW3 
+pudding n S3 
+pull 1/ SI, W1 
+punch vS3 
+punishment nW3 
+pupil nS2,W1 
+purchase n W3 
+purchase v W3 
+pure adj S3, W3 
+purely adv S3, W3 
+purple adj S3 
+purpose n S2, W2 
+purse n S3 
+pursue i/S3, W2 
+push v SI, W2 
+putvS1,W1 
+qualification n W3 
+qualify v S3, W3 
+quality n SI, W1 
+quantity n S3, W2 
+quarter n SI, W2 
+queen n S2, W2 
+question n SI, W1 
+question vS2, W3 
+queue n S3 
+quick adj SI, W2 
+quick adv S3 
+quickly adv SI, W1 
+quid nS2 
+quiet adj S2, W2 
+quietly adv S3, W3 
+quit v S3 
+quite predeterminer, adv 
+S1.W1 
+quote i/ S2, W3 
+quote n S2 
+race n S2, W2 
+racing n S3 
+radical adj W3 
+radio n SI, W2 
+rail n S2, W2 
+railway n S2, W2 
+rain n S2, W2 
+rain 1/ S3 
+raise v SI, W1 
+range n SI, W1 
+range v W3 
+rankn W3 
+rapid adj W3 
+rapidly adv W3 
+rare adj S3, W2 
+rarely adv W2 
+rate n SI, W1 
+rather predeterminer, adv 
+S1.W1 
+ratio n W3 
+raw ad] W3 
+reach v SI, W1 
+react v S3, W3 
+reaction n S2, W2 
+read v SI, W1 
+reader n S3, W2 
+readily adv W3 
+reading nW2 
+ready adj SI, W2 
+real adj SI, W1 
+realistic adj S3 
+reality n S2, W2 
+realize v SI, W1 
+really adv SI, W1 
+reason n SI, W1 
+reasonable adj SI, W2 
+reasonably adv S2, W3 
+recall v S3, W2 
+receipt n S2 
+receive v SI, W1 
+recent adj S2, W1 
+recently adv SI, W1 
+reception n W3 
+recipe n S3 
+reckon v SI, W3 
+recognition nS3, W2 
+recognize v SI, W1 
+recommend v S2, W2 
+recommendation n S3, 
+W3 
+record n SI, W1 
+record v S3, W2 
+recording n W3 
+recover vW2 
+recovery n W3 
+red adj SI, W1 
+reduce v SI, W1 
+reduction n S3, W2 
+refer v SI, W1 
+reference n S2, W1 
+reflect vS2,W1 
+reflection n W3 
+reform n W2 
+refrigerator n S3 
+refuse vS2,W1 
+regard n S3 
+regard v S2, W1 
+regime n W2 
+region n SI, W1 
+regional adj SI, W2 
+register v S3, W3 
+registration n S3 
+regret v W3 
+regular adj S2, W2 
+regularly adv S3, W3 
+regulation n S2, W2 
+reinforce vW3 
+reject v S3, W2 
+relate v S2, W1 
+related adj S2, W3 
+relation nS2,W1 
+relationship n SI, W1 
+relative adj W2 
+relative n S3, VV3 
+relatively adv S2.W2 
+relax v S3, W3 
+release vS2,W2 
+release n S3, W2 
+relevant adj S2, W2 
+relief nS2,W2 
+relieve vS3 
+religion n S2, W2 
+religious adj S2, W2 
+rely v S3, W2 
+remain vSI, W1 
+remaining adj W2 
+remains n W3 
+remark r?W3 
+remarkable adj W3 
+remember v SI, Wl 
+remind vSI, W2 
+remote adj W3 
+remove v S2, Wl 
+rent n S2, W3 
+rentvS2, W3 
+repair n W3 
+repair vS3 
+repeat v S2, W2 
+replace vS2, Wl 
+replacement n W3 
+reply n S3, W3 
+reply v W2 
+report n S2, Wl 
+report v S2, Wl 
+reporter n S3 
+represent vS2, Wl 
+representation n S3, W2 
+representative n S3, W2 
+republic nW2 
+reputation n W3 
+request n S3, W2 
+require vSI, Wl 
+requirement n S2, W2 
+rescue vS3, W3 
+research n S2, Wl 
+reserve n S3 
+reserve v W3 
+resident n S3, W3 
+residential adj W3 
+resign v W3 
+resignation n W3 
+resist vW3 
+resistance n S3, W3 
+resolution nW3 
+resolve v W3 
+resort n W3 
+resource nS2, Wl 
+respect n SI, Wl 
+respectively adv W3 
+respond vS2, W2 
+response n SI, Wl 
+responsibility n S2, Wl 
+responsible adj S2, W2 
+rest n SI, Wl 
+rest v S3, W3 
+restaurant nS2, W2 
+restore v W3 
+restrict v W3 
+restriction n W3 
+result n SI, Wl 
+result vW2 
+retain v W2 
+retire v S2, W3 
+retirement n S3, W3 
+return vS2, Wl 
+return n S2, W2 
+reveal v Wl 
+revenue n W2 
+reverse v W3 
+review n S2, W2 
+review v S3, W3 
+revolution n S3, W2 
+reward n W3 
+rhythm n W3 
+rice n S3 
+rich adj S2, W2 
+rid adj SI 
+ridevS2, W2 
+ride n S3 
+ridiculous adj S2 
+right adj SI, Wl 
+right adv SI, Wl 
+right n SI, Wl 
+right interjection S2 
+LONGMAN COMMUNICATION 3000 
+13 
+ringnS1,W2 
+ring v SI, W2 
+rip vS3 
+risevS2, W1 
+rise n S3, W2 
+risk n S2, W1 
+rival nW3 
+river nS2,W2 
+road n SI, W1 
+rob v S3 
+rocknS2, W2 
+rolenS2, W1 
+rollvS1,W2 
+roof n S2, W2 
+room n SI, W1 
+root n S2, W2 
+rope n S3, W3 
+rough adj S2, W3 
+roughly adv S2 
+round odj SI, W2 
+round adv, prep S2, W2 
+round n W3 
+route n S3, W2 
+routine n W3 
+row n S2, W2 
+royal adj S3, W1 
+rub vS2 
+rubber n S3 
+rubbish nS2 
+rude adj S3 
+ruin vS3 
+mien SI, W1 
+rulei/W2 
+run 1/ SI, W1 
+rural adj W2 
+rushvS2, W3 
+sack n S3 
+sad adj S2, W3 
+safe adj S2, W2 
+safety n S2, W2 
+sail vS3 
+sake n S2, W3 
+salad n S2 
+salary nS2,W3 
+sale n SI, W1 
+saltnS2, W3 
+same adv SI, W1 
+same adj SI, W1 
+same pron SI, W1 
+sample n S3, W2 
+sand n S3, W3 
+sandwich nS2 
+satellite nW3 
+satisfaction n W3 
+satisfied adj S3 
+satisfy v S3, W2 
+sauce n S3 
+sausage n S3 
+save v SI, W1 
+saving n S3, W3 
+say v SI, W1 
+scale n S2, W2 
+scared adj S3 
+scene n S2, W2 
+schedule n S2, W3 
+schedule I/S3 
+scheme n S2, W1 
+school n SI, W1 
+science n SI, W1 
+scientific adj S3, W2 
+scientist n S3, W2 
+scope n W3 
+score n S2, W2 
+score v S3, W2 
+scratch v S3 
+scream vS3 
+screen n S2, W2 
+screw n S3 
+script n S3 
+sea n S2, W1 
+seal n S3 
+search n S3, W2 
+search v W3 
+season nS2, W1 
+seat n S2, W1 
+second number SI, W1 
+second n SI, W2 
+secondary adj S3, W2 
+secondly adv S3 
+secret adj S3, W2 
+secret n S3, W3 
+secretary n S2, W1 
+section n SI, W1 
+sector n W1 
+secure adj S3, W3 
+secure vW3 
+security nWI 
+see v SI, W1 
+seed n S3, W3 
+seek v S2, W1 
+seem v SI, W1 
+seize v W3 
+select v S2, W2 
+selection n S3, W2 
+selfnS2, W3 
+sell v SI, W1 
+send v SI, W1 
+senior adj W2 
+sense n SI, W1 
+sensible adj S3, W3 
+sensitive adj S3, W3 
+sentence n SI, W2 
+separate adj S2, W2 
+separate vS2, W2 
+sequence nW2 
+series n S2, W1 
+serious adj SI, W1 
+seriously adv S2, W2 
+servant n W2 
+serve v SI, W1 
+service n SI, W1 
+session n S2, W2 
+set n SI, W1 
+set v SI, W1 
+setting nW2 
+settle v S2, W2 
+settlement n W2 
+several determiner, pron 
+SI, W1 
+severe adj S3, W3 
+sew v S3 
+sex n SI, W2 
+sexual adj S3, W2 
+shadow n S3, W2 
+shake v S3, W2 
+shall mode/ SI, W1 
+shame n S2 
+shape nS2,W2 
+share n SI, W1 
+share v SI, W1 
+sharp adj S3, W2 
+sharply adv W3 
+shave vS3 
+she pron SI, W1 
+shed n S3 
+sheep nS2,W3 
+sheet n SI, W2 
+shelf n S3, W3 
+shell n S3, W3 
+shelter nW3 
+shift v S3, W3 
+shine vS3 
+shipnS2, W2 
+shirt nS2,W3 
+shock nS2,W2 
+shocked adj S3 
+shocking adj S3 
+shoe n SI, W3 
+shoot vS2,W2 
+shop n SI, W1 
+shopping n S2, W3 
+short adj SI, W1 
+shortly adv S3, W3 
+shotnS2, W2 
+should modal SI, W1 
+shoulder n S2, W2 
+shout v S2, W2 
+shove v S3 
+show n SI, W1 
+showy SI, W1 
+shower n S2 
+shrug v W3 
+shut v SI, W2 
+sick adj SI, W3 
+side n SI, W1 
+sight nS2,W2 
+sign n S3, W2 
+sign vS2, W2 
+signal n S2, W2 
+signature n S3 
+significance nW2 
+significant adj S2, W1 
+significantly adv S3, W2 
+silence n W2 
+silent adj W3 
+silly adj S2 
+silvern S3 
+similar adj SI, W1 
+similarly adv W3 
+simple adj SI, W1 
+simply adv SI, W1 
+sin nS2 
+since prep, conj, adv SI, 
+W1 
+singvS1,W2 
+singer n S3 
+single adj SI, W1 
+sinknS3 
+sinkvW3 
+sir n SI, W3 
+sister n SI, W1 
+sit v SI, W1 
+site n SI, W2 
+situation n SI, W1 
+size n SI, W1 
+skill nS2, W1 
+skinnS2, W2 
+skirt n S3 
+sky n S2, W2 
+sleep v SI, W2 
+sleep nS2,W3 
+slice n S3 
+slide v S3, W3 
+slide n S3 
+slight adj S2, W3 
+slightly adv SI, W2 
+slim adj S3 
+slipvS3,W2 
+slip n S3 
+slope nW3 
+slow adj S2, W2 
+slow v S3, W2 
+slowly adv S3, W2 
+small adj SI, W1 
+smart adj S2, W2 
+smell nS2,W3 
+smell vS2,W3 
+smile nS2,W2 
+smile v S3, W1 
+smoke n S3, W3 
+smoke vS2,W2 
+smoking nS2 
+smooth adj W3 
+snap v W3 
+snow n S2, W3 
+so adv SI, W1 
+so conj SI, W3 
+soapn S3 
+so-called adj W3 
+social adj SI, W1 
+society n SI, W1 
+sockn S3 
+soft adj S2, W2 
+software n S3, W2 
+soilnW2 
+soldier n S3, W2 
+sole adj W3 
+solicitor n S3, W2 
+solid adj S3, W3 
+solution n S2, W1 
+solve vS2, W3 
+14 
+LONGMAN COMMUNICATION 3000 
+some determiner SI, W1 
+stair nS2,W3 
+strike n S3, W2 
+survey nS2,W2 
+some pron SI, W1 
+stake n W3 
+strike v S3, W3 
+survival n W3 
+some adv SI, W1 
+stalln S3 
+string n S3, W2 
+survive vS2, W2 
+somebody pran SI, W3 
+stamp vSI, Wl 
+strip nW3 
+suspect vS2,W3 
+somehow adv S2, W2 
+stamp nS2 
+stroke n S3 
+suspicion nW3 
+someone pran SI, W1 
+stand v SI, Wl 
+strong adj SI, Wl 
+suspicious adj S3 
+something pron SI, W1 
+standard adj S2,W2 
+strongly adv S3 
+sustain v W3 
+sometimes adv SI, W1 
+standard n S2, W2 
+structure n S3, W2 
+swap vS3 
+somewhat adv S3, W2 
+starnS2, W2 
+struggle n S3, W3 
+swear v S2 
+somewhere adv SI, W2 
+stare v S3, W2 
+struggle v W3 
+sweep v W3 
+son n SI, W1 
+start v SI, Wl 
+student n SI, Wl 
+sweet adj S2, W3 
+song n SI, W2 
+start n SI, W2 
+studio n S3, W2 
+sweet n S2 
+soon adv SI, W1 
+starve v/ S3 
+study n S2, W3 
+swim vS3 
+sore adj S3 
+state n SI, W2 
+study vS2,W2 
+swimming n S2 
+sorry adj SI, W2 
+state v S3, W2 
+stuff n SI, W3 
+swing v W3 
+sort n SI, W1 
+statement nS2,W1 
+stupid adj SI, W3 
+switch v S2, W3 
+sort v SI, W3 
+station n SI, Wl 
+style n S2, Wl 
+switch n S3 
+soul n S3, W3 
+statistic nS2,W3 
+subject n S2, Wl 
+symbol n W3 
+sound n SI, Wl 
+status n W2 
+submit v S3, W3 
+sympathy n W3 
+sound v SI, W2 
+stay n S3 
+subsequent adj W2 
+system n SI, Wl 
+sound adj\N3 
+stay v SI, Wl 
+subsequently adv W3 
+soup n S3 
+steady adj W3 
+substance n W3 
+table n SI, Wl 
+source n S2, Wl 
+steak n S3 
+substantial adj S3, W2 
+tablet n S3 
+south n SI, W2 
+steal v S3, W3 
+succeed v S3, W2 
+tackle v S3, W3 
+southern adj S2, W2 
+steam n W3 
+success n SI, Wl 
+tail n S2, W3 
+space n SI, Wl 
+steel n S3, W3 
+successful adj S2, Wl 
+take v SI, Wl 
+spare adj S2 
+steep adj S3 
+successfully adv W3 
+talenW3 
+spare vS3 
+step n S2, Wl 
+such determiner, 
+talent nW3 
+speak v SI, Wl 
+step v S3, W3 
+predeterminer, pron 
+talk n SI, Wl 
+speaker n S2, W2 
+stick v SI, W3 
+SI, Wl 
+talk v SI, Wl 
+special adj SI, Wl 
+stick n S3 
+suck v S3 
+tall adj S2, W2 
+specialist n S3, W3 
+stiff adj S3 
+sudden adj S2, W3 
+tanknS2, W2 
+species nW2 
+still adv SI, Wl 
+suddenly adv SI, Wl 
+tap n S3 
+specific adj SI, Wl 
+still adj S3 
+suffer v SI, Wl 
+tape n S3, W3 
+specifically adv S2, W3 
+stir v S3, W3 
+sufficient adj S2, W2 
+target n S2, W2 
+specify v W3 
+stock n S2, W2 
+sugar nS2,W3 
+tasknS2, Wl 
+speech n S2, W2 
+stomach n S3, W3 
+suggest v SI, Wl 
+taste n S2, W2 
+speed n S2, Wl 
+stone n S2, Wl 
+suggestion n SI, W2 
+taste v S2 
+spell vS2 
+stopvSI.WI 
+suitnS2, W3 
+tax n SI, Wl 
+spelling n S2 
+stop n S2, W3 
+suit v S3, W3 
+taxi n S3 
+spend v SI, Wl 
+storage n W3 
+suitable adj S3, W2 
+tea n SI, W2 
+spill v/S3 
+store n SI, Wl 
+sum n S2, W2 
+teach v SI, W2 
+spin vS3 
+store v S3, W3 
+summer n SI, Wl 
+teacher n SI, Wl 
+spirit nS2,W2 
+storm n W3 
+sun n S2, Wl 
+teaching nS2,W2 
+spiritual adj W3 
+story n SI, Wl 
+super adj S2 
+team n SI, Wl 
+spite n W3 
+straight adv SI, W2 
+supermarket n S3 
+team S3, W3 
+split vS2,W3 
+straight adj S2, W3 
+supper n S3 
+tear v S2, W3 
+spoil vS3 
+straightforward adj S3 
+supply nS2,W2 
+technical adj S2, W2 
+spokesman n W2 
+strain n W3 
+supply v S3, W2 
+technique n S3, Wl 
+spoon n S3 
+strange adj S2, W2 
+support n SI, Wl 
+technology nS2, Wl 
+sport n S2, W2 
+stranger n S2, W2 
+support v SI, W2 
+telephone n SI, W2 
+spotnS2, W2 
+strategic adj W3 
+supporter n S3, W2 
+television n SI, Wl 
+spot v S3 
+strategy n W2 
+suppose vSl, Wl 
+tell i/SI, Wl 
+spray vS3 
+straw n S3 
+sure adj SI, Wl 
+telly nS2 
+spread v S2, W2 
+strawberry n S3 
+sure adv S3 
+temperature n S2, W2 
+spring n S2, W2 
+stream n W3 
+surely adv SI, W2 
+temporary adj S3, W3 
+squad n W3 
+street n SI, Wl 
+surface n S3, Wl 
+tend v SI, Wl 
+square adj S2, W3 
+strength n S2, W2 
+surgery n S2, W2 
+tendency n S3, W3 
+square n S2, W3 
+strengthen v W3 
+surprise n S3, W2 
+tennis n S3, W3 
+squeeze vS3 
+stress n S3, W3 
+surprised adj S2, W2 
+tension n W2 
+stable adj W3 
+stress vS3, W3 
+surprising adj S3, W3 
+tent n S3 
+staff n S2, W2 
+stretch v S3, W3 
+surprisingly adv W3 
+term n SI, Wl 
+stage n SI, Wl 
+strict adj S3 
+surround v W2 
+terrible adj SI, W3 
+LONGMAN COMMUNICATION 3000 
+15 
+terribly adv S2 
+territory n W2 
+terror n W3 
+terrorist n W3 
+test n SI, W1 
+test v S3, W2 
+text n S2, W1 
+text v S2 
+than conj, prep SI, W1 
+thank v SI, W2 
+thanks interjection SI 
+thanks nW3 
+that adv SI, W2 
+that determiner, pron SI, 
+W1 
+that conj SI, W1 
+the definite article, 
+determiner SI, W1 
+theatre n S2, W2 
+their deferm/ner SI, W1 
+theirs pron S3 
+them pron SI, W1 
+theme n S2, W2 
+themselves pran SI, W1 
+then adv SI, W1 
+theoretical adj W3 
+theory n S2, W1 
+there adv SI, W1 
+there pron SI, W1 
+therefore adv SI, W1 
+they pron SI, W1 
+thick adj S2, W2 
+thin adj S2, W2 
+thing n SI, W1 
+think v SI, W1 
+this determiner, pron SI, 
+W1 
+though adv SI 
+though conj SI, W1 
+thought n SI, W1 
+threat n S3, W2 
+threaten v S3, W2 
+three number SI 
+throat n S3, W3 
+through prep, adv SI, W1 
+throughout prep, adv 
+S2,W1 
+throw v SI, W1 
+thus adv Wl 
+ticket n SI, W2 
+tidy adj S3 
+tie v S2, W3 
+tienS3,W3 
+tight adj S2, W3 
+tile n S3 
+till prep, conj SI 
+time n SI, W1 
+tin n S2 
+tiny adj S2, W2 
+tip n S2, W3 
+tip vS3 
+tired adj SI, W2 
+title n S3, Wl 
+to S1.W1 
+to prep SI, W1 
+toast n S3 
+today adv SI, W1 
+toe n S3 
+together adv SI, W1 
+toilet n S2 
+tomato n S2 
+tomorrow adv SI, W2 
+tonn S3 
+tone n S3, W2 
+tongue n S3, W3 
+tonight adv SI, W2 
+too adv SI, W1 
+tool n S2, W2 
+tooth n S2, W2 
+top adj SI, W1 
+top n SI, W2 
+topic n S3, W2 
+total adj SI, W1 
+total n S2, W2 
+totally adv SI, W2 
+touch nS2,W2 
+touch vS2,W2 
+tough adj S2, W2 
+tour n S3, W2 
+tourist nW3 
+towards prep SI, W1 
+towel n S3 
+tower n S3, W3 
+town n SI, W1 
+toy n S3 
+track nS2,W2 
+trade n S3, W1 
+trade v S3, W2 
+tradition n S2, W2 
+traditional adj S3, W1 
+traffic n SI, W2 
+trailer n S3 
+train n SI, W2 
+train v SI, W2 
+trainer n S3 
+training n S2, W1 
+transaction nS3, W3 
+transfer v S3, W2 
+transfer nW2 
+transform v W3 
+transition n W3 
+translate vS3 
+transport n S2, W2 
+transportation n W3 
+trash n S3 
+travel n S2, W2 
+travel v S2, W2 
+tray n S3 
+treat n S3 
+treat vS2,W1 
+treatment n S2, W1 
+treaty n W2 
+tree n SI, W1 
+tremendous adj S2 
+trend n S3, W2 
+trial n S3, W2 
+trick n S3 
+tricky adj S3 
+tripnS2, W2 
+troop n W2 
+trouble n SI, W2 
+trousers n S2 
+truck nS2,W3 
+true adj SI, W1 
+truly adv W3 
+trust n SI, W2 
+trust v S2, W3 
+truth n SI, W2 
+try n S3 
+try v SI, W1 
+tubenS3,W3 
+tune n S3 
+tunnel nW3 
+turn n SI, W1 
+turnvS1,Wl 
+TV n S2, W2 
+twice adv, predeterminer 
+S2, W2 
+twist v S3 
+type n SI, W1 
+typical adj S2, W2 
+tyre n S3 
+ugly adj S3 
+ultimate adj W3 
+ultimately adv W3 
+unable adj W2 
+unbelievable adj S3 
+uncle nS2,W3 
+under prep, adv SI, VV1 
+underneath prep, adv S2 
+understand vSI, W1 
+understanding n W3 
+undertake vW3 
+unemployed adj S2, W3 
+unemployment n S2, W2 
+unfair adj S3 
+unfortunate adj S3 
+unfortunately adv SI, W3 
+unhappy adj S3 
+uniform n S3 
+union nSI, Wl 
+unique adj S3, W2 
+unitnS2, W2 
+united adj S2, W3 
+unity nW3 
+universal adj W3 
+universe n W3 
+university n S2, Wl 
+unknown adj, adv W2 
+unless conj SI, Wl 
+unlike prep W3 
+unlikely adj S3, W2 
+until prep, conj SI, Wl 
+unusual adj S2, W3 
+up adv, prep, adj SI, Wl 
+upon prep S2, Wl 
+upper adj W2 
+upset adj S2 
+upset vS2 
+upstairs adv S2 
+urban adj W2 
+urge v W3 
+urgent adj S3 
+us pron SI, Wl 
+use n SI, Wl 
+use v SI, Wl 
+used adj SI, W2 
+used to modal SI, W2 
+useful adj SI, Wl 
+user n S3, Wl 
+usual adj S2.W2 
+usually adv SI, Wl 
+vacation n S2, W3 
+vague adj S3 
+valley n S3, W3 
+valuable adj W3 
+value n S2, Wl 
+van n S2, W3 
+variation n W2 
+variety n S2, Wl 
+various adj SI, Wl 
+vary v S3, W2 
+vast adj S3, W2 
+vegetable n S3, W3 
+vehicle n S2, W2 
+version n S2, W2 
+very adv SI, Wl 
+very adj S2, Wl 
+vet n S3 
+via prep W2 
+victim n S3, W2 
+victory nW2 
+video n SI, W2 
+view n SI, Wl 
+village n SI, Wl 
+violence nS2, W2 
+violent adj S3, W3 
+virtually adv S2, W2 
+virtue n W3 
+virus n W3 
+visible adj W3 
+vision n S3, W2 
+visit vS2,W1 
+visit n S3, W2 
+visitor n S3, W2 
+visual adj W3 
+vital adj W2 
+voice n S2, Wl 
+volume n S3, W2 
+voluntary adj W3 
+vote n S2, W2 
+vote v S2, W2 
+vulnerable adj W3 
+wage n S2, W2 
+wait v SI, Wl 
+wake v S2, W3 
+walk v SI, Wl 
+walknS2,W2 
+wall n SI, Wl 
+16 
+LONGMAN COMMUNICATION 3000 
+wander vS3 
+wantvS1,W1 
+warnS2, W1 
+ward n W3 
+wardrobe n S3 
+warm adj S2, W2 
+warn vS3, W2 
+warning n S3, W2 
+wash v SI, W3 
+washing n S2 
+waste n S2, W3 
+waste vS2,W3 
+waste adj W3 
+watch v SI, W1 
+watch n S2, W3 
+water n SI, W1 
+wave n S3, W2 
+wave v S3, W3 
+way n SI, W1 
+way adv S2 
+we pron SI, W1 
+weak adj S3, W2 
+weakness n W3 
+wealth nW3 
+weapon n S3, W2 
+wear v SI, W1 
+weather n SI, W2 
+web n S2, W2 
+website n S2, W2 
+wedding nS2, W3 
+week n SI, W1 
+weekend n SI, W2 
+weekly adj W3 
+weigh vS3, W3 
+weight n SI, W2 
+weird adj S2 
+welcome adj S2, W3 
+welcome vS2, W2 
+welfare n S3, W2 
+well adv SI, W1 
+well interjection SI, W1 
+well ad/ SI, W2 
+west n SI, W2 
+western adj S2, W2 
+wet adj S2, W3 
+what pron, determiner, 
+predeterminer SI, W1 
+whatever determiner, pron 
+S1,W1 
+whatsoever adv S2 
+wheel n S2, W3 
+when adv, conj, pron SI, 
+W1 
+whenever adv, conj S2, 
+W3 
+where adv, conj, pron 
+S1,W1 
+whereas conj S2, W2 
+wherever adv S2 
+whether conj SI, W1 
+which determiner, pron 
+S1,W1 
+while conj SI, W1 
+while n SI, W2 
+whisky n S3 
+whisper vW3 
+white adj SI, W1 
+white n S3, W2 
+who pron SI, Wl 
+whoever pron S2 
+whole adj SI, Wl 
+whole nS2,W2 
+whom pron S3, Wl 
+whose determiner, pron 
+S2.W1 
+why adv, conj SI, Wl 
+wicked adj S3 
+wide adj SI, W1 
+wide adv S3, W3 
+widely adv W2 
+widespread adj W3 
+wife n SI, Wl 
+wild adj S2, W2 
+will moda/ SI, Wl 
+will nS2, W2 
+willing adj S2,W3 
+win v SI, Wl 
+win n W3 
+windnS2, W2 
+wind vS3, W3 
+window n SI, Wl 
+windy adj S3 
+winenS2, W2 
+wingn S2, W2 
+winner n S3, W2 
+winter nS2,W2 
+wipe vS3 
+wirenS2, W3 
+wise adj S3 
+wish v SI, Wl 
+wishn S3 
+with prep SI, Wl 
+withdraw vS3, W2 
+within prep, adv SI, Wl 
+without prep, adv SI, Wl 
+witness n S2, W3 
+woman n SI, Wl 
+wonder v SI, W2 
+wonderful adj SI, W2 
+wood n S2, W2 
+wooden adj S3, W3 
+wool n S3 
+word n SI, Wl 
+work n SI, Wl 
+work v SI, Wl 
+worker nS2, Wl 
+working adj S2, W2 
+workshop n S3, W3 
+world n SI, Wl 
+worried adj S2, W3 
+worry v SI, W2 
+worry n S2 
+worrying adj S3 
+worse adj S2, W2 
+worse adv S3, W3 
+worth prep SI, W2 
+worth n W3 
+would modal SI, Wl 
+wound v W3 
+wrap vS3 
+write v SI, Wl 
+writer n S3, W2 
+writing n S2, W3 
+wrong adj SI, Wl 
+wrong adv S2 
+yard n S2, W2 
+yeah adv SI 
+yearn SI, Wl 
+yellow adj S2, W3 
+yep interjection SI 
+yes adv SI, Wl 
+yesterday adv SI, Wl 
+yet adv SI, Wl 
+yet conj W2 
+you pron SI, Wl 
+young adj SI, Wl 
+youngster n S3 
+your determiner SI, Wl 
+yours pron SI, W3 
+yourself pron SI, W2 
+youth n S2, W2 
+zone n W3 
