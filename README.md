@@ -1,4 +1,4 @@
-# Anki-Vocab-Tagger
+# Anki-Vocab-grader
 
 **中小学 / 中高考 Anki 单词精细化分级与“四会”标红工具**
 
